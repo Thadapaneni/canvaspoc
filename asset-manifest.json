@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canvaspoc/static/css/main.16a54765.css",
+    "main.js": "/canvaspoc/static/js/main.0a6c3dc1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/canvaspoc/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/canvaspoc/index.html",
+    "main.16a54765.css.map": "/canvaspoc/static/css/main.16a54765.css.map",
+    "main.0a6c3dc1.js.map": "/canvaspoc/static/js/main.0a6c3dc1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/canvaspoc/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a54765.css",
+    "static/js/main.0a6c3dc1.js"
+  ]
+}
